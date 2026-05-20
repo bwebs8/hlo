@@ -1,0 +1,30 @@
+{
+  "uuid" : "97f4011c-0725-396a-ab68-d116f11cdad3",
+  "name" : "NAGATO",
+  "wins" : 0,
+  "losses" : 2,
+  "duelCooldownUntil" : 0,
+  "requests" : true,
+  "rating" : {
+    "Sword" : 1370
+  },
+  "matches" : [
+    {
+      "winner" : "itzmehyzex",
+      "loser" : "NAGATO",
+      "kit" : "Sword",
+      "time" : 1779123719479,
+      "duration" : 30800,
+      "health" : 8.0
+    },
+    {
+      "winner" : "itzmehyzex",
+      "loser" : "NAGATO",
+      "kit" : "Sword",
+      "time" : 1779123719479,
+      "duration" : 26402,
+      "health" : 10.0
+    }
+  ],
+  "partyRequests" : true
+}

@@ -1,0 +1,49 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 420,
+      "minecraft:walk_one_cm": 34261,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 7965,
+      "minecraft:damage_taken": 4975,
+      "minecraft:damage_dealt": 240,
+      "minecraft:play_time": 15685,
+      "minecraft:jump": 182,
+      "minecraft:time_since_death": 393,
+      "minecraft:sprint_one_cm": 3150,
+      "minecraft:fall_one_cm": 40900,
+      "minecraft:swim_one_cm": 687,
+      "minecraft:total_world_time": 15685,
+      "minecraft:fly_one_cm": 8856,
+      "minecraft:walk_on_water_one_cm": 7944,
+      "minecraft:crouch_one_cm": 1202,
+      "minecraft:sneak_time": 620,
+      "minecraft:climb_one_cm": 96,
+      "minecraft:deaths": 6
+    },
+    "minecraft:mined": {
+      "minecraft:gravel": 1,
+      "minecraft:oak_leaves": 3,
+      "minecraft:leaf_litter": 1,
+      "minecraft:oak_log": 8,
+      "minecraft:grass_block": 1
+    },
+    "minecraft:used": {
+      "minecraft:gravel": 1,
+      "minecraft:oak_log": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1,
+      "minecraft:zombie": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:oak_log": 8,
+      "minecraft:gravel": 1
+    },
+    "minecraft:killed": {
+      "minecraft:spider": 1
+    }
+  },
+  "DataVersion": 4790
+}

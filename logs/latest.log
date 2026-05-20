@@ -1,0 +1,217 @@
+[07:33:43] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Microsoft Microsoft-13053558) on Linux 6.8.0-1044-azure (amd64)
+[07:33:43] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-63-main@711c5de (2026-05-11T08:20:02Z) for Minecraft 26.1.2
+[07:33:43] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:33:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 11 plugins
+[07:33:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (11):
+ - Announcement (1.0.0), Duels (7.1), Essentials (2.22.0-dev+112-5baf239), LuckPerms (5.5.17), SimpleLogin (1.16.5), SkinsRestorer (15.12.0), TAB (6.0.2), ViaBackwards (5.9.1), ViaVersion (5.9.1), WorldEdit (7.4.3+7515-78babeb), WorldGuard (7.0.16+2355-f7fded2)
+[07:33:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[07:33:50] [ServerMain/INFO]: Loaded 1515 recipes
+[07:33:51] [ServerMain/INFO]: Loaded 1617 advancements
+[07:33:51] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[07:33:51] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 470.0ms
+[07:33:51] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[07:33:51] [Server thread/INFO]: Loading properties
+[07:33:51] [Server thread/INFO]: This server is running Paper version 26.1.2-63-main@711c5de (2026-05-11T08:20:02Z) (Implementing API version 26.1.2.build.63-stable)
+[07:33:51] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:33:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:33:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:33:52] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[07:33:52] [Server thread/INFO]: Default game type: SURVIVAL
+[07:33:52] [Server thread/INFO]: Generating keypair
+[07:33:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:33:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:33:52] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[07:33:53] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.9.1
+[07:33:53] [Server thread/INFO]: [ViaVersion] ViaVersion 5.9.1 is now loaded. Registering protocol transformers and injecting...
+[07:33:54] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
+[07:33:54] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[07:33:54] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[07:33:54] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.3+7515-78babeb
+[07:33:55] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3620a526]
+[07:33:55] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.17
+[07:33:55] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[07:33:55] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.9.1
+[07:33:55] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.16+2355-f7fded2
+[07:33:55] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+112-5baf239
+[07:33:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.0
+[07:33:55] [Server thread/INFO]: [TAB] Loading server plugin TAB v6.0.2
+[07:33:55] [Server thread/INFO]: [Announcement] Loading server plugin Announcement v1.0.0
+[07:33:55] [Server thread/INFO]: [SimpleLogin] Loading server plugin SimpleLogin v1.16.5
+[07:33:55] [Server thread/INFO]: [Duels] Loading server plugin Duels v7.1
+[07:33:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:33:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.3+7515-78babeb
+[07:33:55] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[07:33:55] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[07:33:56] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v26_1.PaperweightAdapter as the Bukkit adapter
+[07:33:56] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.17
+[07:33:56] [Server thread/INFO]:         __    
+[07:33:56] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.17
+[07:33:56] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[07:33:56] [Server thread/INFO]: 
+[07:33:57] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[07:33:57] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[07:33:57] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[07:33:57] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1268ms)
+[07:33:57] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.0
+[07:33:58] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.1.2.
+[07:33:59] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[07:33:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:33:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:33:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:33:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:33:59] [Server thread/INFO]: Preparing level "world"
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.0
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 2903414
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[07:33:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[07:34:00] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[07:34:00] [Server thread/INFO]: Preparing spawn area: 100%
+[07:34:00] [Server thread/INFO]: Prepared spawn area in 3 ms
+[07:34:00] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[07:34:00] [Server thread/INFO]: Prepared spawn area in 1 ms
+[07:34:00] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[07:34:00] [Server thread/INFO]: Prepared spawn area in 1 ms
+[07:34:00] [Server thread/INFO]: Done preparing level "world" (1.265s)
+[07:34:00] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.9.1
+[07:34:00] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.1-26.1.2 (775)
+[07:34:00] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.9.1
+[07:34:00] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.16+2355-f7fded2
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[07:34:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[07:34:00] [Server thread/INFO]: [WorldGuard] Loading region data...
+[07:34:01] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+112-5baf239
+[07:34:01] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[07:34:01] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[07:34:01] [Server thread/INFO]: [Essentials] Loaded 46312 items from items.json.
+[07:34:01] [Server thread/INFO]: [Essentials] Using locale en
+[07:34:02] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[07:34:02] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[07:34:02] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[07:34:02] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[07:34:02] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[07:34:02] [Server thread/INFO]: [TAB] Enabling TAB v6.0.2
+[07:34:02] [Server thread/INFO]: [TAB] Found NMS implementation: me.neznamy.tab.platforms.bukkit.paper_1_21_11.NMSImplementationProvider
+[07:34:02] [Server thread/INFO]: [TAB] Enabled in 311ms
+[07:34:02] [Server thread/INFO]: [Announcement] Enabling Announcement v1.0.0
+[07:34:02] [Server thread/INFO]: [Announcement] Announcement plugin enabled!
+[07:34:02] [Server thread/INFO]: [SimpleLogin] Enabling SimpleLogin v1.16.5
+[07:34:02] [Server thread/INFO]: [SimpleLogin] SimpleLogin enabled!
+[07:34:02] [Server thread/INFO]: [Duels] Enabling Duels v7.1
+[07:34:02] [Server thread/INFO]: ╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+[07:34:02] [Server thread/INFO]: ║  ██████╗ ██╗   ██╗███████╗██╗     ███████╗     ██████╗ ██████╗ ████████╗██╗███╗   ███╗██╗███████╗███████╗██████╗  ║
+[07:34:02] [Server thread/INFO]: ║  ██╔══██╗██║   ██║██╔════╝██║     ██╔════╝    ██╔═══██╗██╔══██╗╚══██╔══╝██║████╗ ████║██║██╔════╝██╔════╝██╔══██╗ ║
+[07:34:02] [Server thread/INFO]: ║  ██║  ██║██║   ██║█████╗  ██║     ███████╗    ██║   ██║██████╔╝   ██║   ██║██╔████╔██║██║███████╗█████╗  ██║  ██║ ║
+[07:34:02] [Server thread/INFO]: ║  ██║  ██║██║   ██║██╔══╝  ██║     ╚════██║    ██║   ██║██╔═══╝    ██║   ██║██║╚██╔╝██║██║╚════██║██╔══╝  ██║  ██║ ║
+[07:34:02] [Server thread/INFO]: ║  ██████╔╝╚██████╔╝███████╗███████╗███████║    ╚██████╔╝██║        ██║   ██║██║ ╚═╝ ██║██║███████║███████╗██████╔╝ ║
+[07:34:02] [Server thread/INFO]: ║  ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝     ╚═════╝ ╚═╝        ╚═╝   ╚═╝╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚═════╝  ║
+[07:34:02] [Server thread/INFO]: ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+[07:34:02] [Server thread/INFO]: Duels Optimised » Starting to load log manager
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded Log Manager in [6ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Starting to load loadables
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded config in [9ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded commands config in [1ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded lang in [2ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded user manager in [9ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded gui listener in [3ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded party manager in [3ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded kit manager in [3ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded arena manager in [3ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded settings manager in [1ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded player manager in [2ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded spectate manager in [7ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded betting manager in [1ms]
+[07:34:02] [Server thread/INFO]: Duels Optimised » Successfully loaded inventory manager in [1ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully loaded duel manager in [6ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully loaded queue manager in [11ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully loaded queue signs in [5ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully loaded request manager in [5ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully hooked into 'Essentials'!
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully hooked into 'WorldGuard'!
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully loaded hook manager in [9ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully loaded validator manager in [1ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully loaded teleport manager in [1ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Loaded 3 kit(s).
+[07:34:03] [Server thread/INFO]: Duels Optimised » Loaded 1 arena(s).
+[07:34:03] [Server thread/INFO]: Duels Optimised » Vault was not found! Money betting feature will be automatically disabled.
+[07:34:03] [Server thread/INFO]: Duels Optimised » Loaded 3 queue(s).
+[07:34:03] [Server thread/INFO]: Duels Optimised » Loaded 0 queue sign(s).
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully loaded all loadables in [526ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Registering commands...
+[07:34:03] [Server thread/INFO]: [Duels] Resolved command registrations: /duel aliases=[1v1], /party aliases=[p, duelparty, dp], /queue aliases=[q], /spectate aliases=[spec], /duels aliases=[ds], /kit aliases=[dkit]
+[07:34:03] [Server thread/INFO]: [Duels] Registered command: /duel (aliases: 1v1, duel)
+[07:34:03] [Server thread/INFO]: [Duels] Registered command: /party (aliases: p, duelparty, dp, party)
+[07:34:03] [Server thread/INFO]: [Duels] Registered command: /queue (aliases: q, queue)
+[07:34:03] [Server thread/INFO]: [Duels] Registered command: /spectate (aliases: spec, spectate)
+[07:34:03] [Server thread/INFO]: [Duels] Registered command: /duels (aliases: ds, duels)
+[07:34:03] [Server thread/INFO]: [Duels] Registered command: /kit (aliases: dkit, kit)
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully registered commands [38ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Loading extensions...
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully loaded extensions in [4ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Starting to load pre-listeners
+[07:34:03] [Server thread/INFO]: Duels Optimised » Registering post listeners...
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully registered listeners after plugin startup in [3ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully loaded pre-listeners in [28ms]
+[07:34:03] [Server thread/INFO]: Duels Optimised » Successfully enabled Duels in 607ms.
+[07:34:03] [Server thread/INFO]: [spark] Starting background profiler...
+[07:34:03] [ForkJoinPool.commonPool-worker-1/INFO]: [SimpleLogin] Plugin is up to date (1.16.5)
+[07:34:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:34:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:34:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:34:04] [Server thread/INFO]: Running delayed init tasks
+[07:34:04] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[07:34:04] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[07:34:04] [Server thread/INFO]: Duels Optimised » Registering post listeners...
+[07:34:04] [Server thread/INFO]: Duels Optimised » Successfully registered listeners after plugin startup in [0ms]
+[07:34:04] [Server thread/INFO]: Done (22.125s)! For help, type "help"
+[07:34:04] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 1 build(s) behind ***
+[07:34:04] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***

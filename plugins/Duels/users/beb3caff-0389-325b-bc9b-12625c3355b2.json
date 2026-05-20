@@ -1,0 +1,47 @@
+{
+  "uuid" : "beb3caff-0389-325b-bc9b-12625c3355b2",
+  "name" : "itzmehyzex",
+  "wins" : 3,
+  "losses" : 1,
+  "duelCooldownUntil" : 0,
+  "requests" : true,
+  "rating" : {
+    "Sword" : 1430,
+    "Axe" : 1399
+  },
+  "matches" : [
+    {
+      "winner" : "itzmehyzex",
+      "loser" : "NAGATO",
+      "kit" : "Sword",
+      "time" : 1779123719479,
+      "duration" : 30800,
+      "health" : 8.0
+    },
+    {
+      "winner" : "itzmehyzex",
+      "loser" : "NAGATO",
+      "kit" : "Sword",
+      "time" : 1779123719479,
+      "duration" : 26402,
+      "health" : 10.0
+    },
+    {
+      "winner" : "itzmehyzex",
+      "loser" : "bobycb",
+      "kit" : "Axe",
+      "time" : 1779172116059,
+      "duration" : 35852,
+      "health" : 6.0
+    },
+    {
+      "winner" : "bobycb",
+      "loser" : "itzmehyzex",
+      "kit" : "Axe",
+      "time" : 1779172116059,
+      "duration" : 26955,
+      "health" : 10.0
+    }
+  ],
+  "partyRequests" : true
+}

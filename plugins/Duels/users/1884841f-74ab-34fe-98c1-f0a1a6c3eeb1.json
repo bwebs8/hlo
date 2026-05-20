@@ -1,0 +1,30 @@
+{
+  "uuid" : "1884841f-74ab-34fe-98c1-f0a1a6c3eeb1",
+  "name" : "bobycb",
+  "wins" : 1,
+  "losses" : 1,
+  "duelCooldownUntil" : 0,
+  "requests" : true,
+  "rating" : {
+    "Axe" : 1401
+  },
+  "matches" : [
+    {
+      "winner" : "itzmehyzex",
+      "loser" : "bobycb",
+      "kit" : "Axe",
+      "time" : 1779172116059,
+      "duration" : 35852,
+      "health" : 6.0
+    },
+    {
+      "winner" : "bobycb",
+      "loser" : "itzmehyzex",
+      "kit" : "Axe",
+      "time" : 1779172116059,
+      "duration" : 26955,
+      "health" : 10.0
+    }
+  ],
+  "partyRequests" : true
+}

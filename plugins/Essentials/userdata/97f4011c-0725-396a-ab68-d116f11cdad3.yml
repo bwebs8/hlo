@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 103.198.128.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1779122889527
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1779171757761
+  login: 1779170083989
+money: '0'
+last-account-name: NAGATO
+logoutlocation:
+  world: 1b68e865-896c-43d4-8fba-72e64a362a72
+  world-name: world
+  x: 98.39358891975371
+  y: 243.60453041392023
+  z: 185.56797356375384
+  yaw: -87.69253540039062
+  pitch: 56.02389907836914
+lastlocation:
+  world: 1b68e865-896c-43d4-8fba-72e64a362a72
+  world-name: world
+  x: -12.079029956454228
+  y: 202.65736314977033
+  z: 17.200087066359668
+  yaw: -132.26795959472656
+  pitch: 78.51628875732422

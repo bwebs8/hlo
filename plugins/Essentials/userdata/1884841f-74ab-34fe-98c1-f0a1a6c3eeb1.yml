@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.112.172.153
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1779175942927
+  login: 1779175602331
+money: '0'
+last-account-name: bobycb
+lastlocation:
+  world: 1b68e865-896c-43d4-8fba-72e64a362a72
+  world-name: world
+  x: -23.12179496255141
+  y: 201.0
+  z: 21.648713843826084
+  yaw: -123.44999694824219
+  pitch: 5.399992942810059
+logoutlocation:
+  world: 1b68e865-896c-43d4-8fba-72e64a362a72
+  world-name: world
+  x: 10064.948947750301
+  y: 205.1212968405392
+  z: 9978.925792317757
+  yaw: 135.79107666015625
+  pitch: 70.34999084472656
