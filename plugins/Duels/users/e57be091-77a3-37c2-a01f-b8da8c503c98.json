@@ -1,0 +1,11 @@
+{
+  "uuid" : "e57be091-77a3-37c2-a01f-b8da8c503c98",
+  "name" : "TL_Master_M5",
+  "wins" : 0,
+  "losses" : 0,
+  "duelCooldownUntil" : 0,
+  "requests" : true,
+  "rating" : null,
+  "matches" : [ ],
+  "partyRequests" : true
+}

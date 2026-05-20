@@ -1,0 +1,20 @@
+[
+  {
+    "name" : "CrystalPvP",
+    "kit" : "CrystalPvP",
+    "bet" : 0,
+    "teamSize" : 1
+  },
+  {
+    "name" : "Sword",
+    "kit" : "Sword",
+    "bet" : 0,
+    "teamSize" : 1
+  },
+  {
+    "name" : "Axe",
+    "kit" : "Axe",
+    "bet" : 0,
+    "teamSize" : 1
+  }
+]

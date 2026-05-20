@@ -1,0 +1,11 @@
+{
+  "uuid" : "f99002f8-8a43-3e49-9ceb-b2867e821b1f",
+  "name" : "affupro",
+  "wins" : 0,
+  "losses" : 0,
+  "duelCooldownUntil" : 0,
+  "requests" : true,
+  "rating" : null,
+  "matches" : [ ],
+  "partyRequests" : true
+}

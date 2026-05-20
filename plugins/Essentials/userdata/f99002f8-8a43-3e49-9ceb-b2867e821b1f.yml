@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.29.144.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1779175676621
+  login: 1779174611687
+money: '0'
+last-account-name: affupro
+logoutlocation:
+  world: 1b68e865-896c-43d4-8fba-72e64a362a72
+  world-name: world
+  x: -24.51342941197326
+  y: 201.0
+  z: 17.491029206777096
+  yaw: 21.97760009765625
+  pitch: 3.0315892696380615

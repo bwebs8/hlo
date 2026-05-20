@@ -1,0 +1,53 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3313,
+      "minecraft:walk_one_cm": 57444,
+      "minecraft:leave_game": 5,
+      "minecraft:mob_kills": 12,
+      "minecraft:walk_under_water_one_cm": 839,
+      "minecraft:damage_taken": 5081,
+      "minecraft:damage_dealt": 10780,
+      "minecraft:play_time": 20158,
+      "minecraft:jump": 688,
+      "minecraft:time_since_death": 3287,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 20961,
+      "minecraft:fall_one_cm": 47192,
+      "minecraft:swim_one_cm": 3469,
+      "minecraft:total_world_time": 20158,
+      "minecraft:fly_one_cm": 65039,
+      "minecraft:walk_on_water_one_cm": 1609,
+      "minecraft:crouch_one_cm": 479,
+      "minecraft:sneak_time": 154,
+      "minecraft:deaths": 11,
+      "minecraft:player_kills": 1
+    },
+    "minecraft:used": {
+      "minecraft:netherite_helmet": 1,
+      "minecraft:diamond_axe": 10,
+      "minecraft:wind_charge": 5,
+      "minecraft:netherite_chestplate": 1,
+      "minecraft:mace": 32
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 8,
+      "minecraft:zombie": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:wind_charge": 64,
+      "minecraft:mace": 2,
+      "minecraft:netherite_chestplate": 1,
+      "minecraft:netherite_helmet": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:netherite_helmet": 1,
+      "minecraft:netherite_chestplate": 1
+    },
+    "minecraft:killed": {
+      "minecraft:creeper": 2,
+      "minecraft:iron_golem": 10
+    }
+  },
+  "DataVersion": 4790
+}
